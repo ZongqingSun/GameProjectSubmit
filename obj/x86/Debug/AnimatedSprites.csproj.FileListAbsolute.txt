@@ -1,0 +1,8 @@
+c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\Anderson\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
