@@ -16,40 +16,57 @@ namespace AnimatedSprites
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+        //生命值
+        int numberLivesRemaining = 3;
+        public int NumberLivesRemaining
+        {
+            get { return numberLivesRemaining; }
+            set
+            {
+                numberLivesRemaining = value;
+                if (numberLivesRemaining == 0)
+                {
+                    currentGameState = GameState.GameOver;
+                    spriteManager.Enabled = false;
+                    spriteManager.Visible = false;
+                }
+            }
+        }
+
+        //游戏状态变量
+        enum GameState { Start, InGame, GameOver };
+        GameState currentGameState = GameState.Start;
+
+        //创建背景图片
+        Texture2D backgroundTexture;
+
+        //当前分数值
+        int currentScore = 0;
+        //分数字体元素
+        SpriteFont scoreFont;
+
+        //声音文件
+        AudioEngine audioEngine;
+        WaveBank waveBank;
+        SoundBank soundBank;
+        Cue trackCue;
+        //随机变量
+        public Random rnd { get; private set; }
+
+        SpriteManager spriteManager;
+
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-
-        Texture2D texture;
-        Texture2D skullTexture;
-
-        Point ringsFrameSize = new Point(75,75);
-        Point ringsCurrentFrame = new Point(0,0);
-        Point ringsSheetSize = new Point(6,8);
-
-        Point skullFrameSize = new Point(75, 75);
-        Point skullCurrentFrame = new Point(0, 0);
-        Point skullSheetSize = new Point(6, 8);
-
-        int ringsTimeSinceLastFrame = 0;
-        int ringsMillisecondsPerFrame = 15;
-
-        int skullTimeSinceLastFrame = 0;
-        int skullMillisecondsPerFrame = 20;
-
-        MouseState preMouseState;
-
-        Vector2 ringsPosition = Vector2.Zero;
-        Vector2 skullPosition = new Vector2(100, 100);
-        const float ringsSpeed = 6;
-
-        int ringsCollisionRectOffset = 10;
-        int skullCollisionRectOffset = 10;
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-            //TargetElapsedTime = new TimeSpan(0,0,0,0,30);
+
+            rnd = new Random();
+
+            graphics.PreferredBackBufferHeight = 768;
+            graphics.PreferredBackBufferWidth = 1024;
         }
 
         /// <summary>
@@ -60,7 +77,10 @@ namespace AnimatedSprites
         /// </summary>
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
+            spriteManager = new SpriteManager(this);
+            Components.Add(spriteManager);
+            spriteManager.Enabled = false;
+            spriteManager.Visible = false;
 
             base.Initialize();
         }
@@ -74,8 +94,18 @@ namespace AnimatedSprites
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            texture = Content.Load<Texture2D>(@"images\threerings");
-            skullTexture = Content.Load<Texture2D>(@"images\skullball");
+            audioEngine = new AudioEngine(@"Content\Audio\GameAudio.xgs");
+            waveBank = new WaveBank(audioEngine,@"Content\Audio\Wave Bank.xwb");
+            soundBank = new SoundBank(audioEngine,@"Content\Audio\Sound Bank.xsb");
+            scoreFont = Content.Load<SpriteFont>(@"fonts\Score");
+            backgroundTexture = Content.Load<Texture2D>(@"Images\background");
+
+            //Start the soundtrack audio
+            trackCue = soundBank.GetCue("track");
+            trackCue.Play();
+
+            //Play the start sound
+            soundBank.PlayCue("start");
         }
 
         /// <summary>
@@ -94,65 +124,29 @@ namespace AnimatedSprites
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
+            switch (currentGameState)
+            {
+                case GameState.Start:
+                    if (Keyboard.GetState().GetPressedKeys().Length > 0)
+                    {
+                        currentGameState = GameState.InGame;
+                        spriteManager.Enabled = true;
+                        spriteManager.Visible = true;
+                    }
+                    break;
+                case GameState.InGame:
+                    break;
+                case GameState.GameOver:
+                    if (Keyboard.GetState().IsKeyDown(Keys.Enter))
+                        Exit();
+                    break;
+            }
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            MouseState mouseState = Mouse.GetState();
-            if (mouseState.X != preMouseState.X || mouseState.Y != preMouseState.Y)
-                ringsPosition = new Vector2(mouseState.X,mouseState.Y);
-            preMouseState = mouseState;
+            audioEngine.Update();
 
-            KeyboardState keyboardState = Keyboard.GetState();
-            if (keyboardState.IsKeyDown(Keys.Left))
-                ringsPosition.X -= ringsSpeed;
-            if (keyboardState.IsKeyDown(Keys.Right))
-                ringsPosition.X += ringsSpeed;
-            if (keyboardState.IsKeyDown(Keys.Up))
-                ringsPosition.Y -= ringsSpeed;
-            if (keyboardState.IsKeyDown(Keys.Down))
-                ringsPosition.Y += ringsSpeed;
-           
-            ringsTimeSinceLastFrame += gameTime.ElapsedGameTime.Milliseconds;
-            if (ringsTimeSinceLastFrame > ringsMillisecondsPerFrame)
-            {
-                ringsTimeSinceLastFrame -= ringsMillisecondsPerFrame;
-                ++ringsCurrentFrame.X;
-                if (ringsCurrentFrame.X >= ringsSheetSize.X)
-                {
-                    ringsCurrentFrame.X = 0;
-                    ++ringsCurrentFrame.Y;
-                    if (ringsCurrentFrame.Y >= ringsSheetSize.Y)
-                        ringsCurrentFrame.Y = 0;
-                }
-            }
-
-            skullTimeSinceLastFrame += gameTime.ElapsedGameTime.Milliseconds;
-            if (skullTimeSinceLastFrame > skullMillisecondsPerFrame)
-            {
-                skullTimeSinceLastFrame -= skullMillisecondsPerFrame;
-                ++skullCurrentFrame.X;
-                if (skullCurrentFrame.X >= skullSheetSize.X)
-                {
-                    skullCurrentFrame.X = 0;
-                    ++skullCurrentFrame.Y;
-                    if (skullCurrentFrame.Y >= skullSheetSize.Y)
-                        skullCurrentFrame.Y = 0;
-                }
-            }
-
-            //保持精灵在窗口内
-            if (ringsPosition.X < 0)
-                ringsPosition.X = 0;
-            if (ringsPosition.Y < 0)
-                ringsPosition.Y = 0;
-            if (ringsPosition.X > Window.ClientBounds.Width - ringsFrameSize.X)
-                ringsPosition.X = Window.ClientBounds.Width - ringsFrameSize.X;
-            if (ringsPosition.Y > Window.ClientBounds.Height - ringsFrameSize.Y)
-                ringsPosition.Y = Window.ClientBounds.Height - ringsFrameSize.Y;
-
-            if(Collide())
-                Exit();
             base.Update(gameTime);
         }
 
@@ -162,51 +156,86 @@ namespace AnimatedSprites
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-             GraphicsDevice.Clear(Color.White);
+            switch (currentGameState)
+            { 
+                case GameState.Start:
+                    GraphicsDevice.Clear(Color.AliceBlue);
 
-             spriteBatch.Begin(SpriteSortMode.FrontToBack, BlendState.AlphaBlend);
+                    //Draw text for intro splash screen
+                    spriteBatch.Begin();
+                    string text = "Avoid the blades or die!";
+                    spriteBatch.DrawString(scoreFont,text,
+                        new Vector2((Window.ClientBounds.Width/2)
+                            -(scoreFont.MeasureString(text).X/2),
+                            (Window.ClientBounds.Height / 2)
+                            - (scoreFont.MeasureString(text).Y / 2)),
+                            Color.SaddleBrown);
 
-             spriteBatch.Draw(texture, ringsPosition,
-                 new Rectangle(ringsCurrentFrame.X * ringsFrameSize.X,
-                     ringsCurrentFrame.Y * ringsFrameSize.Y, ringsFrameSize.X,
-                     ringsFrameSize.Y),
-                     Color.White,
-                     0,
-                     Vector2.Zero,
-                     1,
-                     SpriteEffects.None,
-                     0);
+                    text = "(Press any key to begin)";
+                    spriteBatch.DrawString(scoreFont,text,
+                        new Vector2((Window.ClientBounds.Width/2)
+                            -(scoreFont.MeasureString(text).X/2),
+                            (Window.ClientBounds.Height / 2)
+                            - (scoreFont.MeasureString(text).Y / 2)+30),
+                            Color.SaddleBrown);
+                    spriteBatch.End();
+                    break;
+                case GameState.InGame:
+                    GraphicsDevice.Clear(Color.White);
+                    spriteBatch.Begin();
+                    //画背景
+                    spriteBatch.Draw(
+                        backgroundTexture,new Rectangle(0,0,Window.ClientBounds.Width,Window.ClientBounds.Height),
+                        null,Color.White,0,Vector2.Zero,
+                        SpriteEffects.None,0);
 
-            spriteBatch.Draw(skullTexture, skullPosition,
-                new Rectangle(skullCurrentFrame.X*skullFrameSize.X,
-                    skullCurrentFrame.Y*skullFrameSize.Y,
-                    skullFrameSize.X,
-                    skullFrameSize.Y),
-                    Color.White,
-                    0,
-                    Vector2.Zero,
-                    1,
-                    SpriteEffects.None,
-                    0);
+                     //Draw fonts
+                     spriteBatch.DrawString(scoreFont, "Score: " + currentScore,
+                     new Vector2(10,10),Color.DarkBlue, 0, Vector2.Zero,1,SpriteEffects.None,1);
+                     spriteBatch.End();
+                     break;
+                case GameState.GameOver:
+                     GraphicsDevice.Clear(Color.AliceBlue);
 
-             spriteBatch.End();
+                     spriteBatch.Begin();
+                     string gameover = "Game Over! The blades win again!";
+                     spriteBatch.DrawString(scoreFont,gameover,
+                        new Vector2((Window.ClientBounds.Width/2)
+                            -(scoreFont.MeasureString(gameover).X/2),
+                            (Window.ClientBounds.Height / 2)
+                            - (scoreFont.MeasureString(gameover).Y / 2)),
+                            Color.SaddleBrown);
+
+                     gameover = "Your score: " + currentScore;
+                     spriteBatch.DrawString(scoreFont, gameover,
+                        new Vector2((Window.ClientBounds.Width / 2)
+                            - (scoreFont.MeasureString(gameover).X / 2),
+                            (Window.ClientBounds.Height / 2)
+                            - (scoreFont.MeasureString(gameover).Y / 2) + 30),
+                            Color.SaddleBrown);
+
+                    gameover = "(Press ENTER to exit)";
+                     spriteBatch.DrawString(scoreFont, gameover,
+                        new Vector2((Window.ClientBounds.Width / 2)
+                            - (scoreFont.MeasureString(gameover).X / 2),
+                            (Window.ClientBounds.Height / 2)
+                            - (scoreFont.MeasureString(gameover).Y / 2) + 60),
+                            Color.SaddleBrown);
+                     spriteBatch.End();
+                    break;
+            }
 
             base.Draw(gameTime);
         }
 
-        //碰撞检测的方法
-         protected bool Collide()
+        public void AddScore(int score)
         {
-            Rectangle ringsRect = new Rectangle((int)ringsPosition.X+ringsCollisionRectOffset,
-                (int)ringsPosition.Y + ringsCollisionRectOffset,
-                ringsFrameSize.X - (ringsCollisionRectOffset*2),
-                ringsFrameSize.Y - (ringsCollisionRectOffset*2));
-            Rectangle skullRect = new Rectangle((int)skullPosition.X + skullCollisionRectOffset,
-                (int)skullPosition.Y + skullCollisionRectOffset,
-                skullFrameSize.X-(skullCollisionRectOffset*2),
-                skullFrameSize.Y-(skullCollisionRectOffset*2));
+            currentScore += score;
+        }
 
-             return ringsRect.Intersects(skullRect);
+        public void PlayCue(string CueName)
+        {
+            soundBank.PlayCue(CueName);
         }
     }
 }

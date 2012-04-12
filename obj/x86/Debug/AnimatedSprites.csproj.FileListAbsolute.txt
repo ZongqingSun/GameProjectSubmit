@@ -6,3 +6,19 @@ c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\Animated
 c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
 c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
 C:\Users\Anderson\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb

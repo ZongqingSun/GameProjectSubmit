@@ -1,2 +1,18 @@
 Content\Images\threerings.xnb
 Content\Images\skullball.xnb
+Content\Images\plus.xnb
+Content\Audio\skullcollision.xnb
+Content\Audio\start.xnb
+Content\Audio\track.xnb
+Content\Fonts\Score.xnb
+Content\Images\background.xnb
+Content\Images\bolt.xnb
+Content\Images\fourblades.xnb
+Content\Images\threeblades.xnb
+Content\Audio\boltcollision.xnb
+Content\Audio\fourbladescollision.xnb
+Content\Audio\pluscollision.xnb
+Content\Audio\threebladescollision.xnb
+Content\Audio\GameAudio.xgs
+Content\Audio\Wave Bank.xwb
+Content\Audio\Sound Bank.xsb
