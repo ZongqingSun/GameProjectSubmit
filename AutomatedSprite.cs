@@ -1,9 +1,19 @@
-﻿using System;
+﻿#region File Description
+/*
+    AutomatedSprite.cs
+ *  Author: Zongqing Sun and Gan Zhang
+ *  Purpose: Class for Automated sprites
+ */
+#endregion
+
+#region using statements
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+#endregion
 
 namespace AnimatedSprites
 {
@@ -27,9 +37,9 @@ namespace AnimatedSprites
 
         public AutomatedSprite(Texture2D textureImage, Vector2 position,
         Point frameSize, int collisionOffset, Point currentFrame,
-        Point sheetSize, Vector2 speed, int millisecondsPerFrame, string collisionCueName, int scoreValue)
+        Point sheetSize, Vector2 speed, int millisecondsPerFrame, Boolean isRight,string collisionCueName, int scoreValue)
             : base(textureImage, position, frameSize, collisionOffset,
-        currentFrame, sheetSize, speed, millisecondsPerFrame,collisionCueName,scoreValue)
+        currentFrame, sheetSize, speed, millisecondsPerFrame,isRight,collisionCueName,scoreValue)
         { 
         }
 

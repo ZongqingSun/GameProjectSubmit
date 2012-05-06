@@ -90,6 +90,9 @@
     <Reference Include="mscorlib">
       <Private>False</Private>
     </Reference>
+    <Reference Include="ProjectMercury">
+      <HintPath>..\..\..\Andrea-IncompleteGameLabs-fc7f28d\Lab7-Particles\ParticlesIncomplete\tools\Mercury Editor\ProjectMercury.dll</HintPath>
+    </Reference>
     <Reference Include="System">
       <Private>False</Private>
     </Reference>
@@ -108,14 +111,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutomatedSprite.cs" />
-    <Compile Include="BouncingSprite.cs" />
+    <Compile Include="BroadsSprite.cs" />
+    <Compile Include="Bullets.cs" />
     <Compile Include="ChasingSprite.cs" />
+    <Compile Include="ChasingSprite2.cs" />
     <Compile Include="EvadingSprite.cs" />
+    <Compile Include="Particles.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Sprite.cs" />
     <Compile Include="SpriteManager.cs" />
+    <Compile Include="User2ControlledSprite.cs" />
     <Compile Include="UserControlledSprite.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -22,3 +22,337 @@ C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\Animated
 C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
 C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
 C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\Anderson\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\smoke.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\smoke.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\qingsongyukuai.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\toussez3.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\smoke.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\qingsongyukuai.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\toussez3.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\smoke.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\qingsongyukuai.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\toussez3.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character2.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Cloud003.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.dll
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.pdb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.xml
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\smoke.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character2.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Cloud003.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\qingsongyukuai.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\toussez3.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.dll
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.pdb
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.xml
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\smoke.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character2.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Cloud003.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\qingsongyukuai.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\toussez3.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.pdb
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.xml
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\smoke.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character2.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Cloud003.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\qingsongyukuai.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\toussez3.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.pdb
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\ProjectMercury.xml
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb

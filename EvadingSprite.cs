@@ -32,11 +32,11 @@ namespace AnimatedSprites
 
         public EvadingSprite(Texture2D textureImage, Vector2 position,
         Point frameSize, int collisionOffset, Point currentFrame,
-        Point sheetSize, Vector2 speed, int millisecondsPerFrame,string collisionCueName,
+        Point sheetSize, Vector2 speed, int millisecondsPerFrame, Boolean isRight, string collisionCueName,
             int scoreValue,SpriteManager spriteManager, float evasionSpeedModifier,
             int evasionRange)
             : base(textureImage, position, frameSize, collisionOffset,
-        currentFrame, sheetSize, speed, millisecondsPerFrame,collisionCueName,scoreValue)
+        currentFrame, sheetSize, speed, millisecondsPerFrame,isRight,collisionCueName,scoreValue)
         {
             this.spriteManager = spriteManager;
             this.evasionSpeedModifier = evasionSpeedModifier;
