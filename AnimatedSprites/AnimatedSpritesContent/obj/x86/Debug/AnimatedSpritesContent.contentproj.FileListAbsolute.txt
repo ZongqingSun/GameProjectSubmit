@@ -1,0 +1,20 @@
+c:\users\anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anderson\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-4\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anderson\Desktop\AnimatedSprites-4\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZongqingSun\Dropbox\XNA assignment\张干\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-6完成音效\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZongqingSun\Desktop\AnimatedSprites-7\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZongqingSun\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml

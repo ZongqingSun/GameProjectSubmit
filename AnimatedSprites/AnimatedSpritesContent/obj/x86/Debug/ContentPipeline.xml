@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\skullball.png</Source>
+      <Name>Images\skullball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb</Output>
+      <Time>2012-04-05T14:20:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\threerings.png</Source>
+      <Name>Images\threerings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb</Output>
+      <Time>2012-04-04T19:35:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\plus.png</Source>
+      <Name>Images\plus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb</Output>
+      <Time>2012-04-06T10:48:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bolt.png</Source>
+      <Name>Images\bolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb</Output>
+      <Time>2012-04-07T15:03:43+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fourblades.png</Source>
+      <Name>Images\fourblades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb</Output>
+      <Time>2012-04-07T15:03:43+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\threeblades.png</Source>
+      <Name>Images\threeblades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb</Output>
+      <Time>2012-04-07T15:03:43+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\character.png</Source>
+      <Name>Images\character</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character.xnb</Output>
+      <Time>2012-04-12T10:45:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\character2.png</Source>
+      <Name>Images\character2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\character2.xnb</Output>
+      <Time>2012-04-12T12:25:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\broad.png</Source>
+      <Name>Images\broad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\broad.xnb</Output>
+      <Time>2012-04-14T11:13:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\background1.jpg</Source>
+      <Name>Images\background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background1.xnb</Output>
+      <Time>2012-04-16T22:04:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\android.png</Source>
+      <Name>Images\android</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\android.xnb</Output>
+      <Time>2012-04-16T22:07:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\firefox.png</Source>
+      <Name>Images\firefox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\firefox.xnb</Output>
+      <Time>2012-04-16T22:07:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fox.png</Source>
+      <Name>Images\fox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fox.xnb</Output>
+      <Time>2012-04-16T22:07:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pacman.png</Source>
+      <Name>Images\pacman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\pacman.xnb</Output>
+      <Time>2012-04-16T22:07:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\penguin.png</Source>
+      <Name>Images\penguin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\penguin.xnb</Output>
+      <Time>2012-04-16T22:07:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\smoke.bmp</Source>
+      <Name>Images\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\smoke.xnb</Output>
+      <Time>2012-04-18T13:09:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion.png</Source>
+      <Name>Images\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\explosion.xnb</Output>
+      <Time>2012-04-18T15:40:43+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\user2character.png</Source>
+      <Name>Images\user2character</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character.xnb</Output>
+      <Time>2012-05-03T15:55:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\user2character2.png</Source>
+      <Name>Images\user2character2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\user2character2.xnb</Output>
+      <Time>2012-05-03T15:55:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Cloud003.png</Source>
+      <Name>Images\Cloud003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Cloud003.xnb</Output>
+      <Time>2012-05-04T14:32:01+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\skullcollision.wav</Source>
+      <Name>Audio\skullcollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb</Output>
+      <Time>2012-04-06T16:34:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\start.wav</Source>
+      <Name>Audio\start</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb</Output>
+      <Time>2012-04-06T16:34:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\track.wav</Source>
+      <Name>Audio\track</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb</Output>
+      <Time>2012-04-06T16:34:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\boltcollision.wav</Source>
+      <Name>Audio\boltcollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb</Output>
+      <Time>2012-04-07T15:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\fourbladescollision.wav</Source>
+      <Name>Audio\fourbladescollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb</Output>
+      <Time>2012-04-07T15:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\pluscollision.wav</Source>
+      <Name>Audio\pluscollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb</Output>
+      <Time>2012-04-07T15:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\threebladescollision.wav</Source>
+      <Name>Audio\threebladescollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb</Output>
+      <Time>2012-04-07T15:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\qingsongyukuai.wav</Source>
+      <Name>Audio\qingsongyukuai</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\qingsongyukuai.xnb</Output>
+      <Time>2012-04-19T09:00:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\toussez3.wav</Source>
+      <Name>Audio\toussez3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\toussez3.xnb</Output>
+      <Time>2012-04-19T09:08:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Score.spritefont</Source>
+      <Name>Fonts\Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb</Output>
+      <Time>2012-04-07T14:19:06+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSpritesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\mac\Dropbox\XNA assignment\孙宗倾\AnimatedSprites-english-edition\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-03T21:12:15.014+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
